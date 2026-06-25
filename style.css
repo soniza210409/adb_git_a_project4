@@ -3,3 +3,7 @@ body{
     height: 100vh;
     display: flex;
 }
+h1{
+    color: red;
+    
+}
